@@ -2,6 +2,7 @@
   "tasks": {
     "day:6-part1": "cd day_6 && deno run --allow-read --watch part1.ts",
     "day:6-part2": "cd day_6 && deno run --allow-read --watch part2.ts",
-    "day:7-part1": "cd day_7 && deno run --allow-read --watch part1.ts"
+    "day:7-part1": "cd day_7 && deno run --allow-read --watch part1.ts",
+    "day:7-part2": "cd day_7 && deno run --allow-read --watch part2.ts"
   }
 }
